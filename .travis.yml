@@ -26,5 +26,5 @@ script:
 
 # Docker
 - echo "==> Docker"
-- sudo docker info
-- sudo docker run hello-world
+- docker info
+- docker run hello-world
